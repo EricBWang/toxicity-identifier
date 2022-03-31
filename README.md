@@ -5,7 +5,7 @@ Harassment thrives in the gaming world. To this day, people still experience unw
 
 The final model is found in ggwp8_final_model.ipynb and identifies whether a message is toxic, obscene, a threat, an insult, and/or identity hate through natural language processing.
 
-**The final model:** Used Stanford's Common Crawl word vector corpus to convert the chat's words into vectors, used tf-idf to get the importance weights of each word to compute a weighted mean to resemble the sentence, formed additional features, entered it all into a logistic regression model, and assessed the model's capabilities with F1-scores.
+  - **The final model:** Used Stanford's Common Crawl word vector corpus to convert the chat's words into vectors, used tf-idf to get the importance weights of each word to compute a weighted mean to resemble the sentence, formed additional features, entered it all into a logistic regression model, and assessed the model's capabilities with F1-scores.
 
 # Contents
 The jupyter notebooks map the thought process and learning path of creating this identifier and insights.
